@@ -1,0 +1,20 @@
+                                                                                                              KÜTAPHANE OTOMASYONU 
+
+
+Projemiz kütüphane otomasyonu olup ilk önce yönetici giriş paneli açılacak giriş yapmak için kullanıcı adı kısmına "talha23" şifre kısmına "12345" yazarak giriş yapılır
+
+Giriş yaptıktan sonra "Üye Ekleme " butonuna basarak üye bilgilerini girip üye ekleye basıcaksınınz prograss bar dolduğu zamanda üye ekeleme işlemi tamamlanacaktır
+
+Üyeleri listelemek, üye bilgilerini göremek,üye araması,silme işlemlerini  yapmak için "Üye Listeleme " butonuna basıp bu işlemleri yapacağız.Üyelerle işimiz bittikten 
+
+sonra kitap kısmına geçeçiğiz kitap kısmında "Kitap Ekleme" butonundan kitap bilgilerini girip kitap ekleme işlemleri yapacağız.Kitapları listelemek,düzenlemek,aramak 
+
+ve silme işlemleri  için "Kitap Listeleme butonuna basıp işlemlerini yapacağız.Ardından kitap verme ve kitap iadesi işlemleri yapacağız."Kitap Verme" işleminde hem üye 
+
+hemde kitap tablosunu kullanarak hangi tcli üyeye hangi barkod no lu kitabı verme işlemleri yapıcağız.Bu sayfada verilen kitap saysısı 3 ü geçemez ve üye olmadan kitab 
+
+verilemez.Bu işlemleride yaptıktan sonra "Kitap İade" işlemine geçiçeğiz.Kitap iade işleminde Geciken,geçikmeyen kitapları sıralama yapabiliriz.Ve kitapları iade 
+
+alabiliriz.Alınan kştaplar stok sayısına eklenir.Aynı zamanda barkod no ya ve tc no ya göre sıralama yapabiliriz.Son olarak "Listeleme " işleminde 
+
+alınan,verilen,geçiken,geçikmeyen tüm kitapalrı görebileceğiz.Ve en son Çıkışa basarak uygulmayı kapatıcaz.Not olarak her işlemde "İptal" butonu vardır.
